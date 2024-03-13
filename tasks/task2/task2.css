@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #faf2e3;
+}
+
+.box {
+    margin: auto;
+    width: 800px;
+}
+
+.box .box__heading {
+    text-align: center;
+    margin-top: 30px;
+    border-bottom: 2px solid #a9d1db;
+}
+
+.box .box__main .box__main__title {
+    color: #c8513a;
+}
+
+.box .box__main__title,
+.box__main__description {
+    margin-top: 15px;
+}

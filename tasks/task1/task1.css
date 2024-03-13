@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 30px;
+}
+.image{
+    width: 500px;
+    overflow: hidden;
+}
+.content{
+    margin: auto;
+    background-color: lightblue;
+    width: 500px;
+    height: 325px;
+}
+.padding{
+    margin: auto;
+    background-color: green;
+    width: 600px;
+    height: 365px;
+}
+.border{
+    margin: auto;
+    background-color: yellow;
+    width: 700px;
+    height: 405px;
+}
+.margin{
+    margin: auto;
+    background-color: orange;
+    width: 800px;
+    height: 445px;
+}

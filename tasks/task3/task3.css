@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+}
+.header{
+    background-color: #3598db;
+    padding: 30px 50px;
+}
+.header .header__heading, .header__text{
+    color: white;
+}
+.section1 .section1__start{
+    width: 650px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: #2dcc70;
+    border: 4px solid green;
+    padding: 30px;
+}
+.section1 .section1__start .section1__start__author{
+    text-align: right;
+    margin-top: 15px;
+}
+.section1 .section1__end{
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: #e84c3d;
+    border: 4px solid red;
+    border-radius: 30px;
+    padding: 30px;
+}
+.section1 .section1__end .section1__end__text, .section1__end__link{
+    color: white;
+    text-align: center;
+}
+.section1 .section1__end .section1__end__link{
+    color: white;
+    margin-left: 110px;
+}
+.section2{
+    margin-top: 20px;
+    background-color: #2d3e50;
+    padding: 60px 50px;
+}
+.section2 .section2__title, .section2__text1, .section2__text2{
+    color: white;
+}
+.section2 .section2__text1, .section2__text2{
+    margin-top: 15px;
+}
+.footer{
+    background-color: #1c2124;
+    padding: 25px;
+}
+.footer .footer__info{
+    text-align: center;
+    color: #2995de;
+}
